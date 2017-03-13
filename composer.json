@@ -1,0 +1,23 @@
+{
+    "name": "BasilFX/Phalcon-HttpCode",
+    "description": "Add exceptions to simplify controller actions within the Phalcon Framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bas Stottelaar",
+            "email": "basstottelaar@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "ext-phalcon": "~3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable",
+    },
+    "autoload": {
+        "psr-4": {
+            "BasilFX\\HttpCode\\": "src"
+        }
+    }
+}
