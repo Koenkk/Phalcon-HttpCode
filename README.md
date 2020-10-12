@@ -71,8 +71,8 @@ class ModelController extends Controller
 ```
 
 ## Requirements
-* PHP 7.0 or later.
-* Phalcon Framework 3.0 or later.
+* PHP 7.2 or later.
+* Phalcon Framework 4.0 or later.
 
 ## Installation
 Install this dependency using `composer require basilfx/phalcon-httpcode`.
